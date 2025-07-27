@@ -1,8 +1,5 @@
 hello world !!
-how ate you guys ??
-<<<<<<< Updated upstream
-=======
+how are you guys ??
 .
 .
 thank
->>>>>>> Stashed changes
